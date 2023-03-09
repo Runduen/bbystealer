@@ -1,4 +1,4 @@
-#####  [:gem: Premium](https://discord.gg/RBnK3ny) - [🔧 Builder](https://github.com/Ralstof/bbystealer/releases/tag/builder) - [💡 Features](https://github.com/Ralstof/bby-stealer#features) 
+#####  [:gem: Premium](https://discord.gg/RBnK3ny) - [🔧 Builder](https://github.com/Ralstof/bbystealer/releases/tag/builder) - [💡 Features](https://github.com/Runduen/bbystealer#features) 
 
 ### Authors
 - GhostyXD#0202
